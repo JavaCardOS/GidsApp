@@ -1,0 +1,24 @@
+<JavaCardProject name="GidsApp">
+<USER>
+<PKG name="com.mysmartlogon.gidsApplet" aid="A0 00 00 03 97 42 54 46 59" major="1" minor="0">
+<CLASS name="ApplicationFile"/>
+<CLASS name="BerTlvFile"/>
+<CLASS name="CRTKeyFile"/>
+<CLASS name="DedicatedFile"/>
+<CLASS name="ElementaryFile"/>
+<CLASS name="ErrorCode"/>
+<CLASS name="File"/>
+<APPLET aid="A0 00 00 03 97 42 54 46 59 00 09" instanceaid="" parameter="" authority="" privileges="" index="816" name="GidsApplet"/>
+<CLASS name="GidsFileSystem"/>
+<CLASS name="GidsPIN"/>
+<CLASS name="GidsPINManager"/>
+<CLASS name="InvalidArgumentsException"/>
+<CLASS name="NotEnoughSpaceException"/>
+<CLASS name="NotFoundException"/>
+<CLASS name="Record"/>
+<CLASS name="TransmitManager"/>
+<CLASS name="UtilTLV"/>
+</PKG>
+<Libs/>
+</USER>
+</JavaCardProject>
